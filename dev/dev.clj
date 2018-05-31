@@ -2,8 +2,6 @@
   (:require [clojure.java.io :as io]
             [clojure.tools.namespace.repl :refer [refresh refresh-all clear]]
             [com.stuartsierra.component :as component]
-            [clojure-ds :as cds]
-            [clojure-ds.data :as data]
             [clojure-ds.helpers :as help]))
 
 (defonce system nil)

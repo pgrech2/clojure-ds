@@ -8,6 +8,7 @@
 
                  [com.taoensso/timbre "4.10.0"]
                  [com.stuartsierra/component "0.3.2"]
+                 [cheshire "5.8.0"]
 
                  ;; Utilities
                  [cheshire "5.7.0"]
